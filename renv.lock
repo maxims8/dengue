@@ -1,1 +1,8 @@
+shiny
+dplyr
+tidyr
+ggplot2
+plotly
+DT
 
+scales

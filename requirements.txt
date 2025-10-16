@@ -1,7 +1,0 @@
-shiny
-tidyr
-ggplot2
-plotly
-DT
-
-scales

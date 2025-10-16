@@ -1,8 +1,3 @@
-shiny
-dplyr
-tidyr
-ggplot2
-plotly
-DT
-
-scales
+install.packages("renv")
+renv::init()      # once per project
+renv::snapshot()  # writes/updates renv.lock
